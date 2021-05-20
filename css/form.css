@@ -1,0 +1,18 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.container-fluide{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mt-30p{
+    margin-top: 30px;
+}
+.mt-5{
+    margin-top: 5%;
+}
+.mt-10{
+    margin-top: 10%;
+}
