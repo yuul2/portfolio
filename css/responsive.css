@@ -1,0 +1,8 @@
+.container{
+    width: 1920px;
+    margin: 0 auto;
+}
+.container-fluide{
+    width: 100%;
+    margin: 0 auto;
+}
