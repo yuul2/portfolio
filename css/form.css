@@ -1,8 +1,8 @@
-.container{
+.row{
     width: 1200px;
     margin: 0 auto;
 }
-.container-fluide{
+.container{
     width: 100%;
     margin: 0 auto;
 }
