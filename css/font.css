@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'futura medium condensed bt';
+    src: url(./futura+medium+condensed+bt.eot);
+    src: url(./futura+medium+condensed+bt.eot?#iefix) format('embedded-opentype'),
+         url(./futura+medium+condensed+bt.ttf) format('truetype'),
+         url(./futura+medium+condensed+bt.woff) format('woff');
+  }
+  @font-face {
+    font-family: 'Futura Book font';
+    src: url(./Futura+Book+font.eot);
+    src: url(./Futura+Book+font.eot?#iefix) format('embedded-opentype'),
+         url(./Futura+Book+font.woff) format('woff'),
+         url(./Futura+Book+font.ttf) format('truetype');
+  }
+  
